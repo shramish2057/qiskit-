@@ -1,3 +1,3 @@
-"Quiskit" 
+"Qiskit " 
 
-Quiskit Course Project as part of Coursera Course (Quantum Computing: St. Petersburg University)
+Qiskit Course Project as part of Coursera Course (Quantum Computing: St. Petersburg University)
